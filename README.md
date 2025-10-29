@@ -1,6 +1,6 @@
 # BookShoppingApp
-## This project has been completed on 10th May, 2023
+## This project has been completed on 10th May, 2024
 
-### frontend: https://bookwormorg.vercel.app/ (react-app)
+### frontend: React app (not hosted)
 ### backend-1: Spring Boot App (not hosted)
 ### backend-2: https://bookwormfastapi.onrender.com/ (fastapi-app)
